@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Billex87/json_the_cat#readme",
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {}
 }
